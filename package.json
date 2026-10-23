@@ -1,0 +1,15 @@
+{
+  "name": "Raj-mods-panel-bot",
+  "version": "1.0.0",
+  "description": "RAJ ADMIN Panel — single file Node.js panel (zero dependencies)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
